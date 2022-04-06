@@ -9,6 +9,7 @@ contract GreeterTest is DSTestPlus {
 
     function setUp() public {
         console.log(unicode"🧪 Testing Greeter.sol...");
+
         greeter = new Greeter("gm");
     }
 
