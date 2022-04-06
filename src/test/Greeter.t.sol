@@ -17,4 +17,5 @@ contract GreeterTest is DSTestPlus {
         greeter.gm("gm gm");
         console.log(unicode"✅ setGm() test passed");
     }
+
 }

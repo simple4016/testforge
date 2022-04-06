@@ -1,0 +1,10 @@
+(undo-tree-save-format-version . 1)
+"9ce1043e94149374852a9e2ec0c89da426c18d25"
+[nil nil nil nil (25165 42009 820330 0) 0 nil]
+([nil nil ((502 . 507) (t 25165 41501 229164 457000)) nil (25165 42009 820329 0) 0 nil])
+([nil nil ((507 . 516)) nil (25165 42009 820329 0) 0 nil])
+([nil nil ((519 . 527) (516 . 518) (#("(" 0 1 (fontified nil ws-butler-chg chg)) . -516) (516 . 517)) nil (25165 42009 820328 0) 0 nil])
+([nil nil ((518 . 521)) nil (25165 42009 820326 0) 0 nil])
+([nil nil ((#("        " 0 8 (fontified t ws-butler-chg chg)) . -508) (undo-tree-id6 . -4) (undo-tree-id7 . -5) (#("testSetGm()pub" 0 1 (fontified t ws-butler-chg chg) 1 2 (fontified t ws-butler-chg chg) 2 3 (fontified t ws-butler-chg chg) 3 4 (fontified t ws-butler-chg chg) 4 5 (fontified t ws-butler-chg chg) 5 6 (fontified t ws-butler-chg chg) 6 7 (fontified t ws-butler-chg chg) 7 8 (fontified t ws-butler-chg chg) 8 9 (fontified t ws-butler-chg chg) 9 10 (fontified t ws-butler-chg chg face (rainbow-delimiters-depth-2-face)) 10 11 (fontified t ws-butler-chg chg face (rainbow-delimiters-depth-2-face)) 11 12 (fontified t ws-butler-chg chg) 12 13 (fontified t ws-butler-chg chg) 13 14 (fontified t ws-butler-chg chg)) . 507)) nil (25165 42009 820325 0) 0 nil])
+([nil current ((#("    " 0 4 (fontified t ws-butler-chg chg)) . 503) (undo-tree-id0 . -4) (undo-tree-id1 . -4) (undo-tree-id2 . -4) (undo-tree-id3 . -4) (undo-tree-id4 . -4) (undo-tree-id5 . -4) 507) nil (25165 42009 820321 0) 0 nil])
+nil
